@@ -1,0 +1,11 @@
+*.fits
+*.img
+*.stats
+*.sum
+*.err
+*.lis
+*.py
+Orig
+Repro
+[1-9]*
+.ipynb_checkpoints
